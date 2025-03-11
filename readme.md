@@ -16,7 +16,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 使用経験のある技術
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,laravel,ts,python,c,matlab,next,nest,flask,django,docker,go,arduino,ubuntu,linux,nuxt,vue,swift,spring boot" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,laravel,ts,python,c,matlab,next,nest,flask,django,docker,go,arduino,ubuntu,linux,nuxt,vue,swift,redux,vitest,kotlin,pring boot" />
 <br>
 
 
